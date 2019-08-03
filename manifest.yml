@@ -1,0 +1,7 @@
+---
+applications:
+- name: interactive-chart-reactjs
+  path: build/
+  instances: 1
+  buildpack: staticfile_buildpack
+  memory: 256M 
