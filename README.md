@@ -11,7 +11,7 @@ Installation:
 
 1. git clone https://github.com/jenizar/apexchart-reactjs.git
 
-2. cd ApexChartReact
+2. cd apexchart-reactjs
 
 3. npm install
 
